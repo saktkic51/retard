@@ -1,0 +1,3 @@
+local CadeBigRetard = game:GetService("Players").LocalPlayer
+restorefunction(getrawmetatable(game).__namecall);
+CadeBigRetard:Kick("You have been banned by an admin for 'Alts are not allowed.'.")
